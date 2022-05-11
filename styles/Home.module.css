@@ -1,5 +1,5 @@
 .container {
-  padding: 0 2rem;
+  padding: 0 0rem;
 }
 
 .main {
@@ -113,4 +113,28 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+#ham{
+  margin-left: 10px;
+  margin-right:10px
+}
+
+#yt{
+  margin-right: 5px;
+  margin-right: 5px;
+}
+
+#side_para{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+#profile{
+  margin-left: 15px;
+}
+
+#VideoLyt{
+  margin: 25px;
 }
